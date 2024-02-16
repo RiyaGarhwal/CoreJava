@@ -2,7 +2,8 @@ package in.co.rays.basic;
 
 public class TypeCasting {
 	
-	//byte-short-char-int-long-float-double
+	//boolean-byte-short-char-int-float-long-double
+	//1bit-1byte-2byte-2byte-4byte-4byte-8byte-8byte
 	
 	public static void main(String[] args) {
 		
@@ -17,8 +18,8 @@ public class TypeCasting {
 //		
 //		System.out.println(b);
 		
-//		float f=11f;
-//		int a= (int)f;
+		float f=11.4f;
+		double a=f;
 //		
 //		System.out.println(a);
 
@@ -33,14 +34,17 @@ public class TypeCasting {
 	//	System.out.println(a);
 		
 //		
-		long a=8;
-		int b=(int)a;
-		
-		System.out.println(b);
-		
-		
-		
-		
+//		long a=8;
+//		int b=(int)a;
+//		
+//		System.out.println(b);
+//		
+//		char a=b;
+//		int y=a	;
+//		
+		System.out.println(a);
+//		
+//		
 		
 		
 	}

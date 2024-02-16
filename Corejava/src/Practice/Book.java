@@ -1,5 +1,10 @@
 package Practice;
 
-public class Book {
+public abstract class Book {
+	
+	public void publisher() {
+		
+		
+	}
 
 }

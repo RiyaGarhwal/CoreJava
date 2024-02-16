@@ -14,13 +14,13 @@ public class Shape {
   public void setBorderwidth(int borderwidth) {
 	  this.borderwidth=borderwidth;
   }
-	public int getborderwidth() {
+	public int getBorderwidth() {
 		return borderwidth=borderwidth;	
 	}
 	
 	public void run() {
 		System.out.println(getColor());
-		System.out.println(getborderwidth());
+		System.out.println(getBorderwidth());
 		
 	}
 	

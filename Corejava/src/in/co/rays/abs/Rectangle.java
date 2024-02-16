@@ -1,6 +1,9 @@
 package in.co.rays.abs;
 
 public class Rectangle extends Shape{
+	public static void main() {
+		System.out.println("abc");
+	}
 	
 	private int length;
 	private int width;
@@ -18,20 +21,29 @@ public class Rectangle extends Shape{
 		return width;
 	}
 	
-
-	
-
 	@Override
 	public void area() {
-		int rArea=getLength()*getWidth();
+	
+	}
+		// TODO Auto-generated method stub
 		
-		System.out.println(rArea);
-		
-		
+	
+	
+
+
 	}
 
+//	@Override
+//	public void area() {
+//		int rArea=getLength()*getWidth();
+//		
+//		System.out.println(rArea);
+//		
+//		
+//	}
+
 	
-}	
+
 	
 
 
