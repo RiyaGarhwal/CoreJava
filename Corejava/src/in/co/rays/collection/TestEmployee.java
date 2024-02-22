@@ -11,6 +11,11 @@ public class TestEmployee {
 		
 		System.out.println(e1);
 		
+		System.out.println(e1.hashCode());
+		
+		System.out.println(e.hashCode());
+		
+		System.out.println(e.equals(e1));
 		
 		
 		

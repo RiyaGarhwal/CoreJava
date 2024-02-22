@@ -5,6 +5,7 @@ public class Stringbuffer {
 		StringBuffer sb=new StringBuffer("Vijay");
 		sb.append("Dinanath Chouhanhh");
 		
+		
 		System.out.println(sb.length());
 		System.out.println(sb.capacity());
 		System.out.println(sb.charAt(5));

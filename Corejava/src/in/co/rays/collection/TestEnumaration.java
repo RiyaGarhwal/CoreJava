@@ -19,15 +19,15 @@ public class TestEnumaration {
 		
 		System.out.println(v);
 		
-	     Enumeration e=v.elements();
-	     
-	     v.add(6);
-	     
-	     while(e.hasMoreElements()) {
-	    	 
-	    	 System.out.println(e.nextElement());
-	     }
-	     
+//	     Enumeration e=v.elements();
+//	     
+//	     v.add(6);
+//	     
+//	     while(e.hasMoreElements()) {
+//	    	 
+//	    	 System.out.println(e.nextElement());
+//	     }
+//	     
 	     
 		
 		
